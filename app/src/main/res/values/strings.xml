@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">SMS Vote</string>
+
+    <string name="account_name">Nom d\'utilisateur</string>
+    <string name="account_email">Adresse mail</string>
+    <string name="account_password">Mot de passe</string>
+    <string name="account_password_r">Répéter le mot de passe</string>
+    <string name="account_phone">Numéro de téléphone</string>
+
+    <string name="action_login">Connexion</string>
+    <string name="action_register">Créer le compte</string>
+
+    <string name="goto_login">Déjà un compte ? Se connecter</string>
+    <string name="goto_register">Pas de compte ? S\'enregistrer</string>
 </resources>
